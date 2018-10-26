@@ -1,2 +1,3 @@
 # CS446-ML
-machine learning python
+machine learning course project
+language: python
