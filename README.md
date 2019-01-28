@@ -1,2 +1,1 @@
-# CS446-ML
-machine learning course project use python
+# CS446-machine learning course project
